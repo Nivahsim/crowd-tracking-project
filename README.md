@@ -41,6 +41,19 @@ The video demonstrates the model’s ability to track 10–30 individuals across
 ![Tracking Result](media/crowd_inference_result.gif)
 
 ---
+
+## 🧪 Generalization to New Environments
+
+The model was evaluated not only on dense pedestrian scenes like in MOT20, but also on **completely different conditions** — specifically, a **football match** recorded from a panoramic camera.
+
+Despite these drastically different visuals (field, camera angle, player movement), the detector successfully identifies and tracks players without prior exposure to such data during training.
+
+📸 **Example: Football Match Tracking Result**
+
+![Football Tracking Result](media/football_results.gif)
+
+---
+
 ## 🛠️ Running Inference
 
 To run inference on a video:
