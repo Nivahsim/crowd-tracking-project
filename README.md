@@ -38,7 +38,7 @@ The video demonstrates the model’s ability to track 10–30 individuals across
 ---
 ### 🎞️ Inference Result (GIF)
 
-![Tracking Result](media/output.gif)
+![Tracking Result](media/crowd_inference_result.gif)
 
 ---
 ## 🛠️ Running Inference
