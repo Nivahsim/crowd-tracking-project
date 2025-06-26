@@ -36,7 +36,11 @@ Tracking was evaluated on a **real-world crowded scene** from YouTube:
 The video demonstrates the model’s ability to track 10–30 individuals across dense pedestrian traffic, with relatively stable ID assignment even in cases of partial occlusion.
 
 ---
+### 🎞️ Inference Result (GIF)
 
+![Tracking Result](media/output.gif)
+
+---
 ## 🛠️ Running Inference
 
 To run inference on a video:
